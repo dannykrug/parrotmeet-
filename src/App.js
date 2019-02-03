@@ -9,7 +9,11 @@ App = () => {
     <Card>
       <CardSection>
         <Text>News Feed</Text>
+      </CardSection>
+      <CardSection>
         <Text>Concert Feed</Text>
+      </CardSection>
+      <CardSection>
         <Text>My Concerts</Text>
       </CardSection>
     </Card>
