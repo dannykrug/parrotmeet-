@@ -1,5 +1,5 @@
 import React from 'react';
-import { View } from 'react-native';
+import { View, Text} from 'react-native';
 import { Header, Card, CardSection } from './components/common'
 
 App = () => {
@@ -8,6 +8,9 @@ App = () => {
     <Header headerText='ParrotMeet' />
     <Card>
       <CardSection>
+        <Text>News Feed</Text>
+        <Text>Concert Feed</Text>
+        <Text>My Concerts</Text>
       </CardSection>
     </Card>
   </View>
