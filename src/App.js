@@ -8,16 +8,16 @@ App = () => {
     <Header headerText='ParrotMeet' />
     <Card>
       <CardSection>
-        <Text>News Feed</Text>
+        <Button>News Feed</Button>
       </CardSection>
       <CardSection>
-        <Text>Concert Feed</Text>
+        <Button>Concert Feed</Button>
       </CardSection>
       <CardSection>
-        <Text>My Concerts</Text>
+        <Button>My Concerts</Button>
       </CardSection>
       <CardSection>
-        <Button />
+        <Button>Log Out</Button>
       </CardSection>
     </Card>
   </View>
