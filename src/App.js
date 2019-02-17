@@ -27,6 +27,8 @@ App = () => {
 
 const styles = {
   imageStyle: {
+    display: 'flex',
+    align: 'center',
     height: 200,
     width: 200
   }
