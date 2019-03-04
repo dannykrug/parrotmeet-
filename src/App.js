@@ -13,11 +13,11 @@ App = () => {
       </CardSection>
 
       <CardSection>
-        <Input placeholder="username" />
+        <Input label="username" placeholder="username" />
       </CardSection>
 
       <CardSection>
-        <Input placeholder="password" secureTextEntry />
+        <Input label="password" placeholder="password" secureTextEntry />
       </CardSection>
 
       <CardSection>
